@@ -1,8 +1,6 @@
-class TestClass:
+class TestClassDemoInstance:
     def test_one(self):
-        x = "this"
-        assert "h" in x
+        assert 0
 
     def test_two(self):
-        x = "hello"
-        assert hasattr(x, "hello")
+        assert 0
