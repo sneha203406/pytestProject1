@@ -5,4 +5,4 @@ class TestClass:
 
     def test_two(self):
         x = "hello"
-        assert hasattr(x, "hello")
+        assert "o" in x
