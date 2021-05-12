@@ -1,4 +1,3 @@
-# This is a sample Python script.
 from test_class import TestClass
 from test_sample import TestClass1
 
