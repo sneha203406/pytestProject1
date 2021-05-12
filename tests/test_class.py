@@ -7,7 +7,7 @@ class TestClass:
     def test_two(self):
         x = "hello"
         assert "o" in x
-        print("test2")
+        print("test_2")
 
 
 t = TestClass()
