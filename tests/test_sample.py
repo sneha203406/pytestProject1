@@ -2,12 +2,12 @@ class TestClass1:
     def test_one1(self):
         x = "sample"
         assert "l" in x
-        print("test_one1")
+        print("success")
 
     def test_two2(self):
         x = "hello"
-        assert "e" in x
-        print("test_two2")
+        assert "n" in x
+        print("failure")
 
 
 t = TestClass1()
